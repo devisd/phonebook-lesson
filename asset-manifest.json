@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/phonebook-lesson/static/css/main.e6c13ad2.css",
+    "main.js": "/phonebook-lesson/static/js/main.9161a7ad.js",
+    "index.html": "/phonebook-lesson/index.html",
+    "main.e6c13ad2.css.map": "/phonebook-lesson/static/css/main.e6c13ad2.css.map",
+    "main.9161a7ad.js.map": "/phonebook-lesson/static/js/main.9161a7ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9161a7ad.js"
+  ]
+}
